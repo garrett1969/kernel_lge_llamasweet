@@ -46,6 +46,7 @@ modules.builtin
 /Module.symvers
 /out/kernel/zImage
 /out/kernel/dtb
+/out
 
 #
 # Debian directory (make deb-pkg)
