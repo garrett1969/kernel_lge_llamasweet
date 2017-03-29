@@ -44,8 +44,9 @@ modules.builtin
 /System.map
 /Module.markers
 /Module.symvers
-/out/kernel/zImage
-/out/kernel/dtb
+
+# do not track generated files
+/out/
 
 #
 # Debian directory (make deb-pkg)
